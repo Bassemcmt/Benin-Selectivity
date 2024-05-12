@@ -1,11 +1,28 @@
 # Define the list of packages
-packages <- c(
-  "rsconnect", "shiny", "shinythemes", "tidyverse", "lubridate",
-  "ggplot2", "dplyr", "DT", "png", "ggiraph", "RColorBrewer",
-  "readr", "shinyWidgets", "shinymanager", "formattable", "writexl",
-  "WriteXLS", "rpivotTable", "htmlwidgets", "shinyjs", "clipr", 
-  "rvest", "shinydashboard", "ggrepel", "readxl", "plotly", "shinyalert"
-)
-
-# Install packages
-install.packages(packages)
+install.packages("rsconnect")
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("DT")
+install.packages("png")
+install.packages("ggiraph")
+install.packages("RColorBrewer")
+install.packages("readr")
+install.packages("shinyWidgets")
+install.packages("shinymanager")
+install.packages("formattable")
+install.packages("writexl")
+install.packages("WriteXLS")
+install.packages("rpivotTable")
+install.packages("htmlwidgets")
+install.packages("shinyjs")
+install.packages("clipr")
+install.packages("rvest")
+install.packages("shinydashboard")
+install.packages("ggrepel")
+install.packages("readxl")
+install.packages("plotly")
+install.packages("shinyalert")
