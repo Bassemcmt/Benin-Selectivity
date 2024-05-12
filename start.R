@@ -1,1 +1,2 @@
-runGitHub("Benin-Selectivity", "bassemcmt")
+shiny::runGitHub("Benin-Selectivity", "bassemcmt", subdir = "app.r")
+
